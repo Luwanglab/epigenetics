@@ -1,0 +1,58 @@
+========================================
+COMPREHENSIVE ANALYSIS SUMMARY
+========================================
+Comparison: RAS_vs_Proliferating 
+Analysis completed: 2025-08-08 18:12:33.25642 
+
+PEAK STATISTICS:
+- Total peaks tested: 82257 
+- Significant DARs (before reduction): 16848 
+- Final peak count used: 300 
+- Up-regulated peaks: 125 
+- Down-regulated peaks: 175 
+
+FILTERING PARAMETERS:
+- Max peaks per heatmap: 300 
+- Min |log2FC| threshold: 1.5 
+- Max padj threshold: 0.01 
+
+SAMPLE INFORMATION:
+- Total samples: 12 
+- Sample groups:
+  * MafK045_KD_Ras : 1 samples
+  * MafK138_KD_Ras : 1 samples
+  * MafK45_RAS : 2 samples
+  * Proliferating : 2 samples
+  * RAS : 2 samples
+  * Ras_MafK045_KD : 2 samples
+  * Ras_MafK138_KD : 2 samples
+- Sample order in heatmap:
+   1 : Proliferating_Rep1 
+   2 : Proliferating_Rep2 
+   3 : RAS_Rep1 
+   4 : RAS_Rep2 
+   5 : MafK45_RAS_Rep1 
+   6 : MafK45_RAS_Rep2 
+   7 : Ras_MafK045_KD_Rep1 
+   8 : Ras_MafK045_KD_Rep2 
+   9 : Ras_MafK138_KD_Rep1 
+   10 : Ras_MafK138_KD_Rep2 
+   11 : MafK045_KD_Ras_Rep1 
+   12 : MafK138_KD_Ras_Rep1 
+
+STATISTICAL SUMMARY:
+- Log2FC range: -7.001 to 5.22 
+- Log2FC median: -1.77 
+- Padj range: 5.272477e-239 to  4.683681e-44 
+- Most significant peak: chr17_50189551_50191746 
+- Highest |log2FC| peak: chr11_94185367_94185940 
+
+HEATMAP MATRIX INFO:
+- Matrix dimensions: 300 x 12 
+- Z-score range: -2.119 to 2.273 
+
+FILES CREATED:
+- simple_heatmap_RAS_vs_Proliferating.pdf
+- simple_results_RAS_vs_Proliferating.csv
+- analysis_summary_RAS_vs_Proliferating.rds
+- analysis_log_RAS_vs_Proliferating.txt
