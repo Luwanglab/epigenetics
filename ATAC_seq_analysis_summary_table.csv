@@ -1,7 +1,0 @@
-Comparison,Significant_Peaks,Up_regulated_Peaks,Down_regulated_Peaks,Associated_Genes,GO_Terms_Enriched,KEGG_Pathways_Enriched,Reactome_Pathways_Enriched,TF_Targets_Enriched
-RAS_vs_Proliferating,27406,19302,8104,13301,1555,149,102,463
-MafK45_RAS_vs_RAS,26505,8881,17624,13516,1680,169,147,616
-Ras_MafK045_KD_vs_RAS,4807,3400,1407,3844,416,76,35,411
-Ras_MafK138_KD_vs_RAS,4525,2732,1793,3634,566,70,20,236
-MafK045_KD_Ras_vs_RAS,6309,3469,2840,4827,780,93,71,374
-MafK138_KD_Ras_vs_RAS,7671,3285,4386,5648,881,119,118,439
