@@ -14,8 +14,8 @@ This repository contains comprehensive volcano plot and pathway analysis results
 
 | Analysis Type | Location | Groups | Status | Description |
 |---------------|----------|---------|---------|-------------|
-| **Volcano Plots** | `folderAll comparison_volcano_pathway/` | 6 comparisons | ✅ Complete | Differential expression/accessibility analysis |
-| **Pathway Analysis** | `folderAll comparison_volcano_pathway/` | 6 comparisons | ✅ Complete | Gene set enrichment and pathway mapping |
+| **Volcano Plots** | `All comparison_volcano_pathway/` | 6 comparisons | ✅ Complete | Differential expression/accessibility analysis |
+| **Pathway Analysis** | `All comparison_volcano_pathway/` | 6 comparisons | ✅ Complete | Gene set enrichment and pathway mapping |
 | **Heatmaps** | `All heatmap/` | 6 comparisons | ⚠️ Partial | Top 300 significant peaks (full dataset in progress) |
 
 ## 🔬 Analysis Details
